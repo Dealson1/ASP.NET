@@ -9,7 +9,6 @@ using ASP.NET.Models;
 using Microsoft.EntityFrameworkCore;
 using ASP.NET.Data;
 using ASP.NET.Models.SchoolViewModels;
-using Microsoft.Extensions.Logging;
 
 namespace ASP.NET.Controllers
 {
